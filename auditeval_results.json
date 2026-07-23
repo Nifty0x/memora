@@ -1,0 +1,18 @@
+{
+ "memora": {
+  "origin": 100.0,
+  "supersession": 100.0,
+  "attribution": 100.0,
+  "belief_at": 100.0,
+  "contamination": 100.0
+ },
+ "baseline": {
+  "origin": 19.2,
+  "supersession": 19.2,
+  "attribution": 100.0,
+  "belief_at": 38.1,
+  "contamination": 0.0
+ },
+ "n_pairs": 120,
+ "seed": 7
+}
