@@ -22,3 +22,7 @@ Reproduce every number in the paper:
     python3 memora/plots.py
 
 License: MIT
+
+## Paper
+
+[Read the paper (PDF)](paper/BPMA_paper.pdf) - "Who Knew What, When, and Why: A Replayable, Bitemporal Memory Substrate for AI Agents" (Marko Vidrih, 2026). arXiv submission pending.
