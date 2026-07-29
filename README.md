@@ -40,4 +40,16 @@ License: MIT
 
 ## Paper
 
-[Read the paper (PDF)](paper/BPMA_paper.pdf) - "Who Knew What, When, and Why: A Replayable, Bitemporal Memory Substrate for AI Agents" (Marko Vidrih, 2026). arXiv submission pending.
+[Read the paper (PDF)](paper/BPMA_Vidrih_2026.pdf) - "Who Knew What, When, and Why: A Replayable, Bitemporal Memory Substrate for AI Agents" (Marko Vidrih, 2026).
+
+Published on Zenodo: https://doi.org/10.5281/zenodo.21654959
+
+## Citing
+
+    @article{vidrih2026bpma,
+      title  = {Who Knew What, When, and Why: A Replayable, Bitemporal
+                Memory Substrate for AI Agents},
+      author = {Vidrih, Marko},
+      year   = {2026},
+      doi    = {10.5281/zenodo.21654959}
+    }

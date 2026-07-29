@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: >-
+  Memora: Reference Implementation of the Bitemporal
+  Provenance Memory Architecture (BPMA)
+message: >-
+  If you use this software or the accompanying paper,
+  please cite them as below.
+type: software
+authors:
+  - given-names: Marko
+    family-names: Vidrih
+    email: marko@creatus.ai
+    affiliation: Creatus.ai
+repository-code: 'https://github.com/Nifty0x/memora'
+abstract: >-
+  Memora is the open-source reference implementation of the
+  Bitemporal Provenance Memory Architecture (BPMA), an
+  append-only, provenance-first memory substrate for AI
+  agents. Every input is recorded as an immutable Memory
+  Event carrying its principal (human, agent, or pipeline,
+  with model version) and bitemporal coordinates. Facts
+  extracted from those events (Claims) carry validity
+  intervals and supersession links, so prior beliefs remain
+  queryable. All recall structures are derived, versioned,
+  replayable projections. The package also contains
+  AuditEval, a benchmark of five provenance query classes.
+keywords:
+  - AI agents
+  - agent memory
+  - long-term memory
+  - provenance
+  - bitemporal
+  - event sourcing
+  - auditability
+  - LLM agents
+license: MIT
+version: 1.0.0
+date-released: '2026-07-26'
+preferred-citation:
+  type: article
+  title: >-
+    Who Knew What, When, and Why: A Replayable, Bitemporal
+    Memory Substrate for AI Agents
+  authors:
+    - given-names: Marko
+      family-names: Vidrih
+      email: marko@creatus.ai
+      affiliation: Creatus.ai
+  year: 2026
+  # After publishing on Zenodo, paste the DOI below (e.g. 10.5281/zenodo.1234567)
+  doi: 10.5281/zenodo.21654959
